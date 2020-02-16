@@ -1,0 +1,54 @@
+body{
+    background-image: url("romance.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+form{
+    border: 2px solid palevioletred;
+    background-color: rgba(216, 112, 147, 0.329);
+    border-radius: 5%;
+    margin: 0%;
+    width: 30%;
+    float: left;
+
+}
+
+label{
+    margin-bottom: 5%;
+}
+
+h2 a{
+    color: palevioletred;
+    float: right;
+}
+
+h1{
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+    padding-bottom: 3%;
+    color: palevioletred;
+  
+}
+
+h2{
+    text-align: center;
+    padding-bottom:1%;
+    color: palevioletred;
+  
+}
+
+.form-contain2{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 5%;
+}
+
+.btn-primary{
+    width: 100%;
+}
+
+#inscription{
+    margin-left: 35%;
+}

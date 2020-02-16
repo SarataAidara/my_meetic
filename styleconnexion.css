@@ -1,0 +1,36 @@
+*{
+    background-color:rgb(247, 156, 247);
+}
+
+form{
+    border: 2px solid palevioletred;
+    background-color: rgba(216, 112, 147, 0.329);
+    border-radius: 5%;
+    margin: 0%;
+    width: 30%;
+    float: left;
+}
+
+label{
+    margin-bottom: 5%;
+}
+
+h2{
+    text-align: center;
+    padding-bottom:1%;
+    color: palevioletred;
+}
+
+.form-contain{
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 5%;
+}
+
+.btn-primary{
+    width: 100%;
+}
+
+#connexion{
+    margin-left: 35%;
+}
